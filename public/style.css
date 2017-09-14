@@ -1,0 +1,42 @@
+#form {  
+  background-color: orange;
+  border-radius: 4px;
+  padding: 25px;
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  padding: 12px;
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: orange;
+}
+
+#oj {
+  color: crimson;
+  margin-left: 20px;
+}
+
+a {
+  color: blue;
+  margin-left: 20px;
+}
+
